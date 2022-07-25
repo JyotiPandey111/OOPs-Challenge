@@ -1,7 +1,4 @@
 # OOPs-Challenge
-Class, Objects, Inheritance
-
-CHALLENGE:
 
 Create at least 10 examples  of:
 1. Class and Object
