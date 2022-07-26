@@ -1,5 +1,4 @@
 # OOPs-Challenge
-# OOPs-Challenge
 
 
 Create at least 10 examples  of:
