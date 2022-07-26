@@ -47,15 +47,16 @@ This promotes modular programming in production grade projects.
 - EXAMPLE 5: MULTIPLE INHERITANCE WITH ONE PARENT AND TWO CHILD CLASS
 - EXAMPLE 6: MULTI-LEVEL INHERITANCE WITH THREE CLASSES
 
+## PUBLIC, PRIVATE, AND PROTECTED:
 - Public: Public methods and variables can be accessible everywhere. All the methods and attributes of class are public by default.
 - Protected: Protected methods and variables can be accessible within the class in which it is defined and its parent or inherited classes and declared by '_' before the name.
 - Private:   Private methods and variables can be accessible within the class only. Private method and variable is declared by using '__' before the name
 Any number of Methods and Variables in class can be private, public and protected.
-## Abstraction: 
+## ABSTRACTION: 
 When there is a restriction on a user to ACCESS the attributes of the class directly,
              then Abstraction comes into play. In simple words, it is hiding  implementation.
              We can access the private attribute through method of the class.
-## Encapsulation: 
+## ENCAPSULATION: 
 When there is a restriction on a user to MODIFY the attributes of the class directly,
                then Encapsulation comes into play.
                We can modify the private variable through method of the class.
