@@ -1,187 +1,204 @@
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 1: ineuron
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 1: ineuron
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 1: ineuron imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Welcome Student
-[2022-07-25 21:23:00,961: INFO: Class_Object]: fetching total count of Student
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-
-
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 2: ineuron_courses
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 2: ineuron_courses imported 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting creation of a new sub course
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Sub Course registration process is completed 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting counting of  sub courses
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Sub Course count process is completed 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting deletion of a new sub course
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Sub Course deletion process is completed 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 1: ineuron imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Welcome Student
+[2022-07-26 18:33:47,021: INFO: Class_Object]: fetching total count of Student
+[2022-07-26 18:33:47,021: INFO: main]: 
 
 
 
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 3: ineuron_instructors
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 2: ineuron_courses
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 3: ineuron_instructors imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting registration of  an instructor
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Instructor registration process is done 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Instructor skills is being updated
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Instructor skills are updated 
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-
-
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 4: ineuron_students
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 4: ineuron_students imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Registering the Student
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Student Registration process is completed 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Updating the Mobile number of Student
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Mobile Number updation process is completed 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 2: ineuron_courses imported 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting creation of a new sub course
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Sub Course registration process is completed 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting counting of  sub courses
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Sub Course count process is completed 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting deletion of a new sub course
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Sub Course deletion process is completed 
+[2022-07-26 18:33:47,021: INFO: main]: 
 
 
 
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 5: One_Neuron
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 3: ineuron_instructors
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 5: One_Neuron imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Creating new neuron type on one neuron portal
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Neuron is created 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Cost determination started for a neuron
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Cost of neuron is returned now 
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-
-
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 6: tech_ineuron
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 6: tech_ineuron imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Creating list of courses for an instructor
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Course list is created and returned 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Cost determination started for a course
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Cost of course is returned now 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 3: ineuron_instructors imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting registration of  an instructor
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Instructor registration process is done 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Instructor skills is being updated
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Instructor skills are updated 
+[2022-07-26 18:33:47,021: INFO: main]: 
 
 
 
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 7: ineuron_internship
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 4: ineuron_students
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 7: ineuron_internship imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Creating list of Tech for an internship
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Fields list is created and returned 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Creating list of domains for an internship
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Domain list is created and returned 
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-
-
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 8: ineuron_affiliates
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 8: ineuron_affiliates imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting the affiliation process
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Affiliation verified 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Updating the bank details
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Account updated successfully 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 4: ineuron_students imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Registering the Student
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Student Registration process is completed 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Updating the Mobile number of Student
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Mobile Number updation process is completed 
+[2022-07-26 18:33:47,021: INFO: main]: 
 
 
 
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 9: ineuron_jobs
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 5: One_Neuron
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 9: ineuron_jobs imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Starting the searching of jobs for given job type
-[2022-07-25 21:23:00,961: INFO: Class_Object]: List generated for given job type 
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-
-
-[2022-07-25 21:23:00,961: INFO: main]:  Calling class 10: ineuron_blog
-[2022-07-25 21:23:00,961: INFO: main]: 
-
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Class 10: ineuron_blog imported
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Creating the blog
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Blog is stored successfully 
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Fetching the blog types
-[2022-07-25 21:23:00,961: INFO: Class_Object]: Blog types list is prepared 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 5: One_Neuron imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Creating new neuron type on one neuron portal
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Neuron is created 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Cost determination started for a neuron
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Cost of neuron is returned now 
+[2022-07-26 18:33:47,021: INFO: main]: 
 
 
 
-[2022-07-25 21:23:00,961: INFO: main]: CREATING THE INHERITANCE MODULE
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 1: INHERITANCE WITH CLASSES HAVING METHODS ONLY
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 1: ineuron_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 7: ineuron_internship_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: PARENT CLASS Class 1: ineuron_I methods inherited in CHILD CLASS Class 7: ineuron_internship_I
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Welcome Student
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating list of Tech for an internship
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Fields list is created and returned 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating list of domains for an internship
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Domain list is created and returned 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 6: tech_ineuron
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 2: INHERITANCE WITH PARENT CLASS HAVING METHODS AND ATTRIBUTES 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 5: One_Neuron_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 9: ineuron_jobs_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: PARENT CLASS Class 5: One_Neuron_I inherited in CHILD CLASS Class 9: ineuron_jobs_I
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating new neuron type on one neuron portal
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Neuron is created 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Cost determination started for a neuron
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Cost of neuron is returned now 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting the searching of jobs for given job type
-[2022-07-25 21:23:00,961: INFO: Inheritance]: List generated for given job type 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 6: tech_ineuron imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Creating list of courses for an instructor
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Course list is created and returned 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Cost determination started for a course
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Cost of course is returned now 
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 3: INHERITANCE WITH PARENT AND CHILD CLASSES BOTH HAVING METHODS AND ATTRIBUTES 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 3: ineuron_instructors_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: PARENT CLASS Class 2: ineuron_courses_I inherited in CHILD CLASS Class 3: ineuron_instructors_I
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting creation of a new sub course
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Sub Course registration process is completed 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting counting of  sub courses
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Sub Course count process is completed 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting deletion of a new sub course
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Sub Course deletion process is completed 
-[2022-07-25 21:23:00,961: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 4: MULTIPLE INHERITANCE WITH TWO PARENT AND ONE CHILD CLASS 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 3: ineuron_instructors_I imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: PARENT CLASS Class 2: ineuron_courses_I and Class 5: One_Neuron_I inherited in CHILD CLASS Class 3: ineuron_instructors_MI
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting counting of  sub courses
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Sub Course count process is completed 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Starting deletion of a new sub course
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Sub Course deletion process is completed 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating new neuron type on one neuron portal
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Neuron is created 
-[2022-07-25 21:23:00,961: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 5: MULTIPLE INHERITANCE WITH ONE PARENT AND TWO CHILD CLASS 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 6: tech_ineuron imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 1: ineuron_I methods inherited Class 6: tech_ineuron
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 1: ineuron_I was also inherited in Class 7: ineuron_internship_I in Example 1 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Welcome Student
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating list of courses for an instructor
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Course list is created and returned 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Cost determination started for a course
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Cost of course is returned now 
-[2022-07-25 21:23:00,961: INFO: main]: 
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 7: ineuron_internship
+[2022-07-26 18:33:47,021: INFO: main]: 
 
-[2022-07-25 21:23:00,961: INFO: main]: EXAMPLE 6: MULTI-LEVEL INHERITANCE WITH THREE CLASSES
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 10: ineuron_blog imported
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 1: ineuron_I was inherited in Class 6: tech_ineuron_I
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Class 6: tech_ineuron_I methods inherited Class 10: ineuron_blog_I
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Welcome Student
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Creating the blog
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Blog is stored successfully 
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Fetching the blog types
-[2022-07-25 21:23:00,961: INFO: Inheritance]: Blog types list is prepared 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 7: ineuron_internship imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Creating list of Tech for an internship
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Fields list is created and returned 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Creating list of domains for an internship
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Domain list is created and returned 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+
+
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 8: ineuron_affiliates
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 8: ineuron_affiliates imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting the affiliation process
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Affiliation verified 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Updating the bank details
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Account updated successfully 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+
+
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 9: ineuron_jobs
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 9: ineuron_jobs imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Starting the searching of jobs for given job type
+[2022-07-26 18:33:47,021: INFO: Class_Object]: List generated for given job type 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+
+
+[2022-07-26 18:33:47,021: INFO: main]:  Calling class 10: ineuron_blog
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Class 10: ineuron_blog imported
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Creating the blog
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Blog is stored successfully 
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Fetching the blog types
+[2022-07-26 18:33:47,021: INFO: Class_Object]: Blog types list is prepared 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+
+
+[2022-07-26 18:33:47,021: INFO: main]: CREATING THE INHERITANCE MODULE
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 1: INHERITANCE WITH CLASSES HAVING METHODS ONLY
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 1: ineuron_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 7: ineuron_internship_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: PARENT CLASS Class 1: ineuron_I methods inherited in CHILD CLASS Class 7: ineuron_internship_I
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Welcome Student
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating list of Tech for an internship
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Fields list is created and returned 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating list of domains for an internship
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Domain list is created and returned 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 2: INHERITANCE WITH PARENT CLASS HAVING METHODS AND ATTRIBUTES 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 5: One_Neuron_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 9: ineuron_jobs_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: PARENT CLASS Class 5: One_Neuron_I inherited in CHILD CLASS Class 9: ineuron_jobs_I
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating new neuron type on one neuron portal
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Neuron is created 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Cost determination started for a neuron
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Cost of neuron is returned now 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting the searching of jobs for given job type
+[2022-07-26 18:33:47,021: INFO: Inheritance]: List generated for given job type 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 3: INHERITANCE WITH PARENT AND CHILD CLASSES BOTH HAVING METHODS AND ATTRIBUTES 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 3: ineuron_instructors_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: PARENT CLASS Class 2: ineuron_courses_I inherited in CHILD CLASS Class 3: ineuron_instructors_I
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting creation of a new sub course
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Sub Course registration process is completed 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting counting of  sub courses
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Sub Course count process is completed 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting deletion of a new sub course
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Sub Course deletion process is completed 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 4: MULTIPLE INHERITANCE WITH TWO PARENT AND ONE CHILD CLASS 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 2: ineuron_courses_I imported 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 3: ineuron_instructors_I imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: PARENT CLASS Class 2: ineuron_courses_I and Class 5: One_Neuron_I inherited in CHILD CLASS Class 3: ineuron_instructors_MI
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting counting of  sub courses
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Sub Course count process is completed 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Starting deletion of a new sub course
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Sub Course deletion process is completed 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating new neuron type on one neuron portal
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Neuron is created 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 5: MULTIPLE INHERITANCE WITH ONE PARENT AND TWO CHILD CLASS 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 6: tech_ineuron imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 1: ineuron_I methods inherited Class 6: tech_ineuron
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 1: ineuron_I was also inherited in Class 7: ineuron_internship_I in Example 1 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Welcome Student
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating list of courses for an instructor
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Course list is created and returned 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Cost determination started for a course
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Cost of course is returned now 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+[2022-07-26 18:33:47,021: INFO: main]: EXAMPLE 6: MULTI-LEVEL INHERITANCE WITH THREE CLASSES
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 10: ineuron_blog imported
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 1: ineuron_I was inherited in Class 6: tech_ineuron_I
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Class 6: tech_ineuron_I methods inherited Class 10: ineuron_blog_I
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Welcome Student
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Creating the blog
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Blog is stored successfully 
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Fetching the blog types
+[2022-07-26 18:33:47,021: INFO: Inheritance]: Blog types list is prepared 
+[2022-07-26 18:33:47,021: INFO: main]: 
+
+
+
+[2022-07-26 18:33:47,021: INFO: main]: CREATING THE PRIVATE PROTECTED ABSTRACTION ENCAPSULATION MODULE
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Class: ineuron_students_A imported
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Accessing the private variable __student_name
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Private variable __student_name accessed successfully 
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Modifying the private variable __student_name
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: SETTER METHOD
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Private variable __student_name modified successfully
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: This is public method used ro call private method
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Encapsulation with private method abstraction
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Private method __modify_mob accessed successfully
+[2022-07-26 18:33:47,021: INFO: main]: Successfully accessed private method through public method
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Encapsulation with private method abstraction
+[2022-07-26 18:33:47,021: INFO: PPP_Abs_Enc]: Private method __modify_mob accessed successfully

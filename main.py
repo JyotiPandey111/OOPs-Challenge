@@ -6,7 +6,7 @@
 from Class_Object import ineuron, ineuron_courses, ineuron_instructors, ineuron_students, One_Neuron
 from Class_Object import tech_ineuron, ineuron_internship, ineuron_affiliates, ineuron_jobs, ineuron_blog
 from Inheritance import ineuron_I, ineuron_internship_I, ineuron_jobs_I, One_Neuron_I, ineuron_courses_I, ineuron_instructors_I,ineuron_instructors_MI, tech_ineuron_I, ineuron_blog_I
-# from PPP_Abs_Enc
+from PPP_Abs_Enc import ineuron_students_A
 # from Poly_Over
 import logging
 
@@ -207,4 +207,14 @@ print("Different blog types are ", inherit_examp6.blog_types())
 
 
 
-
+logging.info("\n\n\n")
+logging.info("CREATING THE PRIVATE PROTECTED ABSTRACTION ENCAPSULATION MODULE")
+print("\nEXAMPLE OF ABSTRACTION: Accessing the private variable __student_name")
+s = ineuron_students_A()
+print("Accessing the name: ", s.name_of_student())
+print("\nEXAMPLE OF ENCAPSULATION: Modifying the private variable __student_name")
+print("Modifying the name: ", s.modify_name())
+print("\nEXAMPLE OF ENCAPSULATION and ABSTRACTION: Modifying the private variable through a private method ")
+print("Private Method accessed by another public method: ", s.call__modify_mob())
+logging.info("Successfully accessed private method through public method")
+print("Private Method accessed by Name Mangling: ", s._ineuron_students_A__modify_mob())
