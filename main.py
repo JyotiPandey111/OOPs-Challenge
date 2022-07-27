@@ -7,7 +7,7 @@ from Class_Object import ineuron, ineuron_courses, ineuron_instructors, ineuron_
 from Class_Object import tech_ineuron, ineuron_internship, ineuron_affiliates, ineuron_jobs, ineuron_blog
 from Inheritance import ineuron_I, ineuron_internship_I, ineuron_jobs_I, One_Neuron_I, ineuron_courses_I, ineuron_instructors_I,ineuron_instructors_MI, tech_ineuron_I, ineuron_blog_I
 from PPP_Abs_Enc import ineuron_students_A
-# from Poly_Over
+from Poly_Over import ineuron_students_p, ineuron_instructors_p, reg, ineuron_students_o
 import logging
 
 
@@ -218,3 +218,22 @@ print("\nEXAMPLE OF ENCAPSULATION and ABSTRACTION: Modifying the private variabl
 print("Private Method accessed by another public method: ", s.call__modify_mob())
 logging.info("Successfully accessed private method through public method")
 print("Private Method accessed by Name Mangling: ", s._ineuron_students_A__modify_mob())
+
+
+
+logging.info("\n\n\n")
+logging.info("CREATING THE POLYMORPHISM AND OVERRIDING MODULE")
+print("\n\nAn Example of POLYMORPHISM")
+c1 = ineuron_instructors_p("Sudhanshu Kumar", 31, "Python SQL Machine Learning Deep Learning")
+c2 = ineuron_students_p("Jyoti Pandey", 0000000000, "jyoti@gmail.com", "1212121212")
+print("One behaviour:", reg(c1))
+logging.info("Registration method of Instructor accessed")
+print("Second behaviour:", reg(c2))
+logging.info("Registration method of Student accessed")
+logging.info("POLYMORPHISM EXAMPLE RUN SUCCESSFULLY")
+
+
+print("\n\nAn Example of OVERRIDING")
+o = ineuron_students_o("Jyoti Pandey", 0000000000, "jyoti@gmail.com", "1212121212")
+print(o.student_registration())
+logging.info("OVERRIDING EXAMPLE RUN SUCCESSFULLY")
