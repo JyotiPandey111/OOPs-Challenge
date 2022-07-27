@@ -60,3 +60,9 @@ When there is a restriction on a user to ACCESS the attributes of the class dire
 When there is a restriction on a user to MODIFY the attributes of the class directly,
                then Encapsulation comes into play.
                We can modify the private variable through method of the class.
+               
+               
+## SAME METHOD NAMES IN DIFFERENT CLASSES: POLYMORPHISM
+It causes different behaviours of particular instance in a different situation.
+## SAME METHOD NAMES IN PARENT AND CHILD CLASS: OVERRIDING
+Overriding happens when parent method get replaced by the child method when same method "name is used.
